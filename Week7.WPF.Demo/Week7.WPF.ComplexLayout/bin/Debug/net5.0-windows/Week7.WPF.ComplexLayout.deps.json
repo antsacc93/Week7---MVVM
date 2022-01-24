@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Week7.WPF.ComplexLayout/1.0.0": {
+        "runtime": {
+          "Week7.WPF.ComplexLayout.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Week7.WPF.ComplexLayout/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
