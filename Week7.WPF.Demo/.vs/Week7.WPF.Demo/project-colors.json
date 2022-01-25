@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b8790c3e-6a69-4d22-83e7-b4c262174602": {
+      "ProjectGuid": "b8790c3e-6a69-4d22-83e7-b4c262174602",
+      "DisplayName": "Week7.WPF.Demo",
+      "ColorIndex": 0
+    },
+    "c6ed3d48-2689-427a-b6ba-5532e41d0965": {
+      "ProjectGuid": "c6ed3d48-2689-427a-b6ba-5532e41d0965",
+      "DisplayName": "Week7.WPF.ComplexLayout",
+      "ColorIndex": 1
+    },
+    "a1d74373-32ee-4868-9de4-06f4de73a80c": {
+      "ProjectGuid": "a1d74373-32ee-4868-9de4-06f4de73a80c",
+      "DisplayName": "Week7.WPF.DefinizioneRisorse",
+      "ColorIndex": 2
+    },
+    "f1c3f4f0-d1bb-4bf4-82e4-1e9f2326a6f4": {
+      "ProjectGuid": "f1c3f4f0-d1bb-4bf4-82e4-1e9f2326a6f4",
+      "DisplayName": "Week7.WPF.Esercitazione1",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

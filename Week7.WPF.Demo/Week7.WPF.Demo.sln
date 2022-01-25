@@ -3,13 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week7.WPF.Demo", "Week7.WPF.Demo\Week7.WPF.Demo.csproj", "{B8790C3E-6A69-4D22-83E7-B4C262174602}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week7.WPF.Demo", "Week7.WPF.Demo\Week7.WPF.Demo.csproj", "{B8790C3E-6A69-4D22-83E7-B4C262174602}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week7.WPF.ComplexLayout", "Week7.WPF.ComplexLayout\Week7.WPF.ComplexLayout.csproj", "{C6ED3D48-2689-427A-B6BA-5532E41D0965}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week7.WPF.ComplexLayout", "Week7.WPF.ComplexLayout\Week7.WPF.ComplexLayout.csproj", "{C6ED3D48-2689-427A-B6BA-5532E41D0965}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week7.WPF.DefinizioneRisorse", "Week7.WPF.DefinizioneRisorse\Week7.WPF.DefinizioneRisorse.csproj", "{A1D74373-32EE-4868-9DE4-06F4DE73A80C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week7.WPF.DefinizioneRisorse", "Week7.WPF.DefinizioneRisorse\Week7.WPF.DefinizioneRisorse.csproj", "{A1D74373-32EE-4868-9DE4-06F4DE73A80C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week7.WPF.Esercitazione1", "Week7.WPF.Esercitazione1\Week7.WPF.Esercitazione1.csproj", "{F1C3F4F0-D1BB-4BF4-82E4-1E9F2326A6F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week7.WPF.Esercitazione1", "Week7.WPF.Esercitazione1\Week7.WPF.Esercitazione1.csproj", "{F1C3F4F0-D1BB-4BF4-82E4-1E9F2326A6F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week7.WPF.DemoEventi", "Week7.WPF.DemoEventi\Week7.WPF.DemoEventi.csproj", "{74D3935A-A5E2-4A7D-B278-190AAE45C4C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week7.WPF.BindingDemo", "Week7.WPF.BindingDemo\Week7.WPF.BindingDemo.csproj", "{87FF9CA9-3BA4-468D-8B3C-177059C6BF41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week7.WPF.AppBase", "Week7.WPF.AppBase\Week7.WPF.AppBase.csproj", "{4678B835-974F-4391-8FED-6D265DA583DA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +39,18 @@ Global
 		{F1C3F4F0-D1BB-4BF4-82E4-1E9F2326A6F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F1C3F4F0-D1BB-4BF4-82E4-1E9F2326A6F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F1C3F4F0-D1BB-4BF4-82E4-1E9F2326A6F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74D3935A-A5E2-4A7D-B278-190AAE45C4C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74D3935A-A5E2-4A7D-B278-190AAE45C4C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74D3935A-A5E2-4A7D-B278-190AAE45C4C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74D3935A-A5E2-4A7D-B278-190AAE45C4C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87FF9CA9-3BA4-468D-8B3C-177059C6BF41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87FF9CA9-3BA4-468D-8B3C-177059C6BF41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87FF9CA9-3BA4-468D-8B3C-177059C6BF41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87FF9CA9-3BA4-468D-8B3C-177059C6BF41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4678B835-974F-4391-8FED-6D265DA583DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4678B835-974F-4391-8FED-6D265DA583DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4678B835-974F-4391-8FED-6D265DA583DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4678B835-974F-4391-8FED-6D265DA583DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,16 @@
+C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Week7.WPF.DemoEventi\bin\Debug\net5.0\Week7.WPF.DemoEventi.exe
+C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Week7.WPF.DemoEventi\bin\Debug\net5.0\Week7.WPF.DemoEventi.deps.json
+C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Week7.WPF.DemoEventi\bin\Debug\net5.0\Week7.WPF.DemoEventi.runtimeconfig.json
+C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Week7.WPF.DemoEventi\bin\Debug\net5.0\Week7.WPF.DemoEventi.runtimeconfig.dev.json
+C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Week7.WPF.DemoEventi\bin\Debug\net5.0\Week7.WPF.DemoEventi.dll
+C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Week7.WPF.DemoEventi\bin\Debug\net5.0\ref\Week7.WPF.DemoEventi.dll
+C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Week7.WPF.DemoEventi\bin\Debug\net5.0\Week7.WPF.DemoEventi.pdb
+C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Week7.WPF.DemoEventi\obj\Debug\net5.0\Week7.WPF.DemoEventi.csproj.AssemblyReference.cache
+C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Week7.WPF.DemoEventi\obj\Debug\net5.0\Week7.WPF.DemoEventi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Week7.WPF.DemoEventi\obj\Debug\net5.0\Week7.WPF.DemoEventi.AssemblyInfoInputs.cache
+C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Week7.WPF.DemoEventi\obj\Debug\net5.0\Week7.WPF.DemoEventi.AssemblyInfo.cs
+C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Week7.WPF.DemoEventi\obj\Debug\net5.0\Week7.WPF.DemoEventi.csproj.CoreCompileInputs.cache
+C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Week7.WPF.DemoEventi\obj\Debug\net5.0\Week7.WPF.DemoEventi.dll
+C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Week7.WPF.DemoEventi\obj\Debug\net5.0\ref\Week7.WPF.DemoEventi.dll
+C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Week7.WPF.DemoEventi\obj\Debug\net5.0\Week7.WPF.DemoEventi.pdb
+C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Week7.WPF.DemoEventi\obj\Debug\net5.0\Week7.WPF.DemoEventi.genruntimeconfig.cache

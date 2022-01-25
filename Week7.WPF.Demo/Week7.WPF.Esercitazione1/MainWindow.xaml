@@ -50,7 +50,7 @@
                     
                 </Border>
                 <Border Grid.Row="2" Margin="4" Background="Aqua">
-                    <TextBlock x:Name="txtDetails" Height="20" Margin="10">Qui verranno inseriti i dettagli del prodotto</TextBlock>
+                    <TextBlock x:Name="txtDetails" Height="20" Margin="10"> Qui verranno inseriti i dettagli del prodotto</TextBlock>
                 </Border>
             </Grid>
         </Border>

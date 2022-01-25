@@ -30,6 +30,7 @@ namespace Week7.WPF.Esercitazione1
 
         private void ViewProduct(object sender, RoutedEventArgs e)
         {
+            
             var selectedName = lstProducts.SelectedItem;
             if(selectedName != null)
             {
