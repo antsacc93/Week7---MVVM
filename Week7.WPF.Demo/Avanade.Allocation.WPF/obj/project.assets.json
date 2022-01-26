@@ -1,0 +1,191 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0-windows7.0": {
+      "MvvmLightLibsStd10/5.4.1.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard1.0/GalaSoft.MvvmLight.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.0/GalaSoft.MvvmLight.dll": {}
+        }
+      },
+      "MvvmLightStd10/5.4.1.2": {
+        "type": "package",
+        "dependencies": {
+          "MvvmLightLibsStd10": "5.4.1.1"
+        }
+      },
+      "Avanade.Allocation.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Avanade.Allocation.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Avanade.Allocation.Core.dll": {}
+        }
+      },
+      "Avanade.Allocation.Core.Mock/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Avanade.Allocation.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Avanade.Allocation.Core.Mock.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Avanade.Allocation.Core.Mock.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MvvmLightLibsStd10/5.4.1.1": {
+      "sha512": "zU9KXgq8dfnzxxOvvAVtasbhaQGoDlTr8Pw2AjZ1NB905GQljrxqkgh3jo5/47Vux5duw3/faUgcZjdfomGvFw==",
+      "type": "package",
+      "path": "mvvmlightlibsstd10/5.4.1.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/monoandroid1/GalaSoft.MvvmLight.Platform.XML",
+        "lib/monoandroid1/GalaSoft.MvvmLight.Platform.dll",
+        "lib/monoandroid1/GalaSoft.MvvmLight.Platform.pdb",
+        "lib/monoandroid1/GalaSoft.MvvmLight.XML",
+        "lib/monoandroid1/GalaSoft.MvvmLight.dll",
+        "lib/monoandroid1/GalaSoft.MvvmLight.pdb",
+        "lib/net45/GalaSoft.MvvmLight.Platform.dll",
+        "lib/net45/GalaSoft.MvvmLight.Platform.pdb",
+        "lib/net45/GalaSoft.MvvmLight.Platform.xml",
+        "lib/net45/GalaSoft.MvvmLight.dll",
+        "lib/net45/GalaSoft.MvvmLight.pdb",
+        "lib/net45/GalaSoft.MvvmLight.xml",
+        "lib/net45/System.Windows.Interactivity.dll",
+        "lib/netstandard1.0/GalaSoft.MvvmLight.XML",
+        "lib/netstandard1.0/GalaSoft.MvvmLight.dll",
+        "lib/netstandard1.0/GalaSoft.MvvmLight.pdb",
+        "lib/uap10.0/GalaSoft.MvvmLight.Platform.dll",
+        "lib/uap10.0/GalaSoft.MvvmLight.Platform.pdb",
+        "lib/uap10.0/GalaSoft.MvvmLight.Platform.pri",
+        "lib/uap10.0/GalaSoft.MvvmLight.Platform.xml",
+        "lib/uap10.0/GalaSoft.MvvmLight.dll",
+        "lib/uap10.0/GalaSoft.MvvmLight.pdb",
+        "lib/uap10.0/GalaSoft.MvvmLight.xml",
+        "lib/xamarin.ios10/GalaSoft.MvvmLight.Platform.XML",
+        "lib/xamarin.ios10/GalaSoft.MvvmLight.Platform.dll",
+        "lib/xamarin.ios10/GalaSoft.MvvmLight.XML",
+        "lib/xamarin.ios10/GalaSoft.MvvmLight.dll",
+        "lib/xamarin.ios10/GalaSoft.MvvmLight.pdb",
+        "mvvmlightlibsstd10.5.4.1.1.nupkg.sha512",
+        "mvvmlightlibsstd10.nuspec"
+      ]
+    },
+    "MvvmLightStd10/5.4.1.2": {
+      "sha512": "+stcp1MI0UYAmVzaw32HqWFatxV8y5rQEHPsb6NZMMHBhnYeq/vKYR/eyt3Fuwia0vHuU2NbMU7rPzpVg993fQ==",
+      "type": "package",
+      "path": "mvvmlightstd10/5.4.1.2",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Content/ViewModel/MainViewModel.cs.pp",
+        "Content/ViewModel/ViewModelLocator.cs.pp",
+        "mvvmlightstd10.5.4.1.2.nupkg.sha512",
+        "mvvmlightstd10.nuspec",
+        "tools/install.ps1"
+      ]
+    },
+    "Avanade.Allocation.Core/1.0.0": {
+      "type": "project",
+      "path": "../Avanade.Allocation.Core/Avanade.Allocation.Core.csproj",
+      "msbuildProject": "../Avanade.Allocation.Core/Avanade.Allocation.Core.csproj"
+    },
+    "Avanade.Allocation.Core.Mock/1.0.0": {
+      "type": "project",
+      "path": "../Avanade.Allocation.Core.Mock/Avanade.Allocation.Core.Mock.csproj",
+      "msbuildProject": "../Avanade.Allocation.Core.Mock/Avanade.Allocation.Core.Mock.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0-windows7.0": [
+      "Avanade.Allocation.Core >= 1.0.0",
+      "Avanade.Allocation.Core.Mock >= 1.0.0",
+      "MvvmLightStd10 >= 5.4.1.2"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\AntoniaSacchitella\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\AntoniaSacchitella\\Desktop\\Week7 - WPF\\Week7.WPF.Demo\\Avanade.Allocation.WPF\\Avanade.Allocation.WPF.csproj",
+      "projectName": "Avanade.Allocation.WPF",
+      "projectPath": "C:\\Users\\AntoniaSacchitella\\Desktop\\Week7 - WPF\\Week7.WPF.Demo\\Avanade.Allocation.WPF\\Avanade.Allocation.WPF.csproj",
+      "packagesPath": "C:\\Users\\AntoniaSacchitella\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\AntoniaSacchitella\\Desktop\\Week7 - WPF\\Week7.WPF.Demo\\Avanade.Allocation.WPF\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\AntoniaSacchitella\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0-windows7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "projectReferences": {
+            "C:\\Users\\AntoniaSacchitella\\Desktop\\Week7 - WPF\\Week7.WPF.Demo\\Avanade.Allocation.Core.Mock\\Avanade.Allocation.Core.Mock.csproj": {
+              "projectPath": "C:\\Users\\AntoniaSacchitella\\Desktop\\Week7 - WPF\\Week7.WPF.Demo\\Avanade.Allocation.Core.Mock\\Avanade.Allocation.Core.Mock.csproj"
+            },
+            "C:\\Users\\AntoniaSacchitella\\Desktop\\Week7 - WPF\\Week7.WPF.Demo\\Avanade.Allocation.Core\\Avanade.Allocation.Core.csproj": {
+              "projectPath": "C:\\Users\\AntoniaSacchitella\\Desktop\\Week7 - WPF\\Week7.WPF.Demo\\Avanade.Allocation.Core\\Avanade.Allocation.Core.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0-windows7.0": {
+        "targetAlias": "net5.0-windows",
+        "dependencies": {
+          "MvvmLightStd10": {
+            "target": "Package",
+            "version": "[5.4.1.2, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

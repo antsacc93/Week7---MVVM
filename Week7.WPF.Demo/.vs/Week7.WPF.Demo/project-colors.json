@@ -20,7 +20,32 @@
       "ProjectGuid": "f1c3f4f0-d1bb-4bf4-82e4-1e9f2326a6f4",
       "DisplayName": "Week7.WPF.Esercitazione1",
       "ColorIndex": 3
+    },
+    "74d3935a-a5e2-4a7d-b278-190aae45c4c4": {
+      "ProjectGuid": "74d3935a-a5e2-4a7d-b278-190aae45c4c4",
+      "DisplayName": "Week7.WPF.DemoEventi",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "87ff9ca9-3ba4-468d-8b3c-177059c6bf41": {
+      "ProjectGuid": "87ff9ca9-3ba4-468d-8b3c-177059c6bf41",
+      "DisplayName": "Week7.WPF.BindingDemo",
+      "ColorIndex": 5
+    },
+    "4678b835-974f-4391-8fed-6d265da583da": {
+      "ProjectGuid": "4678b835-974f-4391-8fed-6d265da583da",
+      "DisplayName": "Week7.WPF.AppBase",
+      "ColorIndex": 6
+    },
+    "777c9129-f323-4a8d-be63-f87e76d57839": {
+      "ProjectGuid": "777c9129-f323-4a8d-be63-f87e76d57839",
+      "DisplayName": "Week7.WPF.Esercitazione2",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 8
 }

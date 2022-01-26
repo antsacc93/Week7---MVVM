@@ -1,0 +1,15 @@
+C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Avanade.Allocation.Core.Mock\bin\Debug\net5.0\Avanade.Allocation.Core.Mock.deps.json
+C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Avanade.Allocation.Core.Mock\bin\Debug\net5.0\Avanade.Allocation.Core.Mock.dll
+C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Avanade.Allocation.Core.Mock\bin\Debug\net5.0\ref\Avanade.Allocation.Core.Mock.dll
+C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Avanade.Allocation.Core.Mock\bin\Debug\net5.0\Avanade.Allocation.Core.Mock.pdb
+C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Avanade.Allocation.Core.Mock\bin\Debug\net5.0\Avanade.Allocation.Core.dll
+C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Avanade.Allocation.Core.Mock\bin\Debug\net5.0\Avanade.Allocation.Core.pdb
+C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Avanade.Allocation.Core.Mock\obj\Debug\net5.0\Avanade.Allocation.Core.Mock.csproj.AssemblyReference.cache
+C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Avanade.Allocation.Core.Mock\obj\Debug\net5.0\Avanade.Allocation.Core.Mock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Avanade.Allocation.Core.Mock\obj\Debug\net5.0\Avanade.Allocation.Core.Mock.AssemblyInfoInputs.cache
+C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Avanade.Allocation.Core.Mock\obj\Debug\net5.0\Avanade.Allocation.Core.Mock.AssemblyInfo.cs
+C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Avanade.Allocation.Core.Mock\obj\Debug\net5.0\Avanade.Allocation.Core.Mock.csproj.CoreCompileInputs.cache
+C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Avanade.Allocation.Core.Mock\obj\Debug\net5.0\Avanade.Allocation.Core.Mock.csproj.CopyComplete
+C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Avanade.Allocation.Core.Mock\obj\Debug\net5.0\Avanade.Allocation.Core.Mock.dll
+C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Avanade.Allocation.Core.Mock\obj\Debug\net5.0\ref\Avanade.Allocation.Core.Mock.dll
+C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Avanade.Allocation.Core.Mock\obj\Debug\net5.0\Avanade.Allocation.Core.Mock.pdb

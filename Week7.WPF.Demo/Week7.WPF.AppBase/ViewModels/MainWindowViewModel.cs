@@ -46,5 +46,8 @@ namespace Week7.WPF.AppBase.ViewModels
             get { return isChecked; }
             set { isChecked = value; NotifyPropertyChanged();}
         }
+
+
+
     }
 }

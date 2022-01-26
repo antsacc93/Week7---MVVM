@@ -20,3 +20,4 @@ C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Week7.WPF.AppBase
 C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Week7.WPF.AppBase\obj\Debug\net5.0-windows\Week7.WPF.AppBase.pdb
 C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Week7.WPF.AppBase\obj\Debug\net5.0-windows\Week7.WPF.AppBase.genruntimeconfig.cache
 C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Week7.WPF.AppBase\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Week7.WPF.AppBase\obj\Debug\net5.0-windows\Week7.WPF.AppBase.csproj.AssemblyReference.cache

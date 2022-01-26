@@ -1,0 +1,12 @@
+C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Avanade.Allocation.Core\bin\Debug\net5.0\Avanade.Allocation.Core.deps.json
+C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Avanade.Allocation.Core\bin\Debug\net5.0\Avanade.Allocation.Core.dll
+C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Avanade.Allocation.Core\bin\Debug\net5.0\ref\Avanade.Allocation.Core.dll
+C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Avanade.Allocation.Core\bin\Debug\net5.0\Avanade.Allocation.Core.pdb
+C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Avanade.Allocation.Core\obj\Debug\net5.0\Avanade.Allocation.Core.csproj.AssemblyReference.cache
+C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Avanade.Allocation.Core\obj\Debug\net5.0\Avanade.Allocation.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Avanade.Allocation.Core\obj\Debug\net5.0\Avanade.Allocation.Core.AssemblyInfoInputs.cache
+C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Avanade.Allocation.Core\obj\Debug\net5.0\Avanade.Allocation.Core.AssemblyInfo.cs
+C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Avanade.Allocation.Core\obj\Debug\net5.0\Avanade.Allocation.Core.csproj.CoreCompileInputs.cache
+C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Avanade.Allocation.Core\obj\Debug\net5.0\Avanade.Allocation.Core.dll
+C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Avanade.Allocation.Core\obj\Debug\net5.0\ref\Avanade.Allocation.Core.dll
+C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Avanade.Allocation.Core\obj\Debug\net5.0\Avanade.Allocation.Core.pdb

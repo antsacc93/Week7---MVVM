@@ -11,11 +11,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week7.WPF.DefinizioneRisors
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week7.WPF.Esercitazione1", "Week7.WPF.Esercitazione1\Week7.WPF.Esercitazione1.csproj", "{F1C3F4F0-D1BB-4BF4-82E4-1E9F2326A6F4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week7.WPF.DemoEventi", "Week7.WPF.DemoEventi\Week7.WPF.DemoEventi.csproj", "{74D3935A-A5E2-4A7D-B278-190AAE45C4C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week7.WPF.DemoEventi", "Week7.WPF.DemoEventi\Week7.WPF.DemoEventi.csproj", "{74D3935A-A5E2-4A7D-B278-190AAE45C4C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week7.WPF.BindingDemo", "Week7.WPF.BindingDemo\Week7.WPF.BindingDemo.csproj", "{87FF9CA9-3BA4-468D-8B3C-177059C6BF41}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week7.WPF.BindingDemo", "Week7.WPF.BindingDemo\Week7.WPF.BindingDemo.csproj", "{87FF9CA9-3BA4-468D-8B3C-177059C6BF41}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week7.WPF.AppBase", "Week7.WPF.AppBase\Week7.WPF.AppBase.csproj", "{4678B835-974F-4391-8FED-6D265DA583DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week7.WPF.AppBase", "Week7.WPF.AppBase\Week7.WPF.AppBase.csproj", "{4678B835-974F-4391-8FED-6D265DA583DA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week7.WPF.Esercitazione2", "Week7.WPF.Esercitazione2\Week7.WPF.Esercitazione2.csproj", "{777C9129-F323-4A8D-BE63-F87E76D57839}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week7.WPF.AsyncAwait", "Week7.WPF.AsyncAwait\Week7.WPF.AsyncAwait.csproj", "{5A25E63F-7CC5-49B5-A1EC-2DEBAE7A3B75}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AvanadeAllocation", "AvanadeAllocation", "{457F0E52-8559-4976-B45A-6A3CEF88817F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Avanade.Allocation.Core", "Avanade.Allocation.Core\Avanade.Allocation.Core.csproj", "{E95BA006-7A5E-4227-9EFF-2918D1292ECA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Avanade.Allocation.Core.Mock", "Avanade.Allocation.Core.Mock\Avanade.Allocation.Core.Mock.csproj", "{837D4CBC-46A9-4A17-8A29-87E10EF2C350}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Avanade.Allocation.WPF", "Avanade.Allocation.WPF\Avanade.Allocation.WPF.csproj", "{1D56162E-F023-42B4-B1FF-FB831A1CBA35}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Avanade.Allocation.WPF.Test", "Avanade.Allocation.WPF.Test\Avanade.Allocation.WPF.Test.csproj", "{60CD45E0-D523-4ACA-A8E3-328EDBECF326}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,9 +65,39 @@ Global
 		{4678B835-974F-4391-8FED-6D265DA583DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4678B835-974F-4391-8FED-6D265DA583DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4678B835-974F-4391-8FED-6D265DA583DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{777C9129-F323-4A8D-BE63-F87E76D57839}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{777C9129-F323-4A8D-BE63-F87E76D57839}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{777C9129-F323-4A8D-BE63-F87E76D57839}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{777C9129-F323-4A8D-BE63-F87E76D57839}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A25E63F-7CC5-49B5-A1EC-2DEBAE7A3B75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A25E63F-7CC5-49B5-A1EC-2DEBAE7A3B75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A25E63F-7CC5-49B5-A1EC-2DEBAE7A3B75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A25E63F-7CC5-49B5-A1EC-2DEBAE7A3B75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E95BA006-7A5E-4227-9EFF-2918D1292ECA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E95BA006-7A5E-4227-9EFF-2918D1292ECA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E95BA006-7A5E-4227-9EFF-2918D1292ECA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E95BA006-7A5E-4227-9EFF-2918D1292ECA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{837D4CBC-46A9-4A17-8A29-87E10EF2C350}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{837D4CBC-46A9-4A17-8A29-87E10EF2C350}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{837D4CBC-46A9-4A17-8A29-87E10EF2C350}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{837D4CBC-46A9-4A17-8A29-87E10EF2C350}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D56162E-F023-42B4-B1FF-FB831A1CBA35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D56162E-F023-42B4-B1FF-FB831A1CBA35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D56162E-F023-42B4-B1FF-FB831A1CBA35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D56162E-F023-42B4-B1FF-FB831A1CBA35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60CD45E0-D523-4ACA-A8E3-328EDBECF326}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60CD45E0-D523-4ACA-A8E3-328EDBECF326}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60CD45E0-D523-4ACA-A8E3-328EDBECF326}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60CD45E0-D523-4ACA-A8E3-328EDBECF326}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E95BA006-7A5E-4227-9EFF-2918D1292ECA} = {457F0E52-8559-4976-B45A-6A3CEF88817F}
+		{837D4CBC-46A9-4A17-8A29-87E10EF2C350} = {457F0E52-8559-4976-B45A-6A3CEF88817F}
+		{1D56162E-F023-42B4-B1FF-FB831A1CBA35} = {457F0E52-8559-4976-B45A-6A3CEF88817F}
+		{60CD45E0-D523-4ACA-A8E3-328EDBECF326} = {457F0E52-8559-4976-B45A-6A3CEF88817F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D6CCF45A-ECBA-4915-A8CC-8F5D3FFCCCAA}

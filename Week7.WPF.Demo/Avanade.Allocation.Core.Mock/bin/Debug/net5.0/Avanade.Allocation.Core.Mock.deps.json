@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Avanade.Allocation.Core.Mock/1.0.0": {
+        "dependencies": {
+          "Avanade.Allocation.Core": "1.0.0"
+        },
+        "runtime": {
+          "Avanade.Allocation.Core.Mock.dll": {}
+        }
+      },
+      "Avanade.Allocation.Core/1.0.0": {
+        "runtime": {
+          "Avanade.Allocation.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Avanade.Allocation.Core.Mock/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Avanade.Allocation.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

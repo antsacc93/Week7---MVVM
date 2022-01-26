@@ -1,0 +1,16 @@
+C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Week7.WPF.AsyncAwait\obj\Debug\net5.0\Week7.WPF.AsyncAwait.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Week7.WPF.AsyncAwait\obj\Debug\net5.0\Week7.WPF.AsyncAwait.AssemblyInfoInputs.cache
+C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Week7.WPF.AsyncAwait\obj\Debug\net5.0\Week7.WPF.AsyncAwait.AssemblyInfo.cs
+C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Week7.WPF.AsyncAwait\obj\Debug\net5.0\Week7.WPF.AsyncAwait.csproj.CoreCompileInputs.cache
+C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Week7.WPF.AsyncAwait\bin\Debug\net5.0\Week7.WPF.AsyncAwait.exe
+C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Week7.WPF.AsyncAwait\bin\Debug\net5.0\Week7.WPF.AsyncAwait.deps.json
+C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Week7.WPF.AsyncAwait\bin\Debug\net5.0\Week7.WPF.AsyncAwait.runtimeconfig.json
+C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Week7.WPF.AsyncAwait\bin\Debug\net5.0\Week7.WPF.AsyncAwait.runtimeconfig.dev.json
+C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Week7.WPF.AsyncAwait\bin\Debug\net5.0\Week7.WPF.AsyncAwait.dll
+C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Week7.WPF.AsyncAwait\bin\Debug\net5.0\ref\Week7.WPF.AsyncAwait.dll
+C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Week7.WPF.AsyncAwait\bin\Debug\net5.0\Week7.WPF.AsyncAwait.pdb
+C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Week7.WPF.AsyncAwait\obj\Debug\net5.0\Week7.WPF.AsyncAwait.dll
+C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Week7.WPF.AsyncAwait\obj\Debug\net5.0\ref\Week7.WPF.AsyncAwait.dll
+C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Week7.WPF.AsyncAwait\obj\Debug\net5.0\Week7.WPF.AsyncAwait.pdb
+C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Week7.WPF.AsyncAwait\obj\Debug\net5.0\Week7.WPF.AsyncAwait.genruntimeconfig.cache
+C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Week7.WPF.AsyncAwait\obj\Debug\net5.0\Week7.WPF.AsyncAwait.csproj.AssemblyReference.cache
