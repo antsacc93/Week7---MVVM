@@ -1,4 +1,7 @@
-﻿using System;
+﻿using Avanade.Allocation.WPF.Messaging.Employee;
+using Avanade.Allocation.WPF.ViewModels;
+using GalaSoft.MvvmLight.Messaging;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -22,6 +25,15 @@ namespace Avanade.Allocation.WPF.Views
         public EmployeeEditorView()
         {
             InitializeComponent();
+            Messenger.Default.Register<ShowCreateEmployeeMessage>(this, OnShowCreateEmployeeExecuted);
+        }
+
+        private void OnShowCreateEmployeeExecuted(ShowCreateEmployeeMessage obj)
+        {
+            EmployeeCreateView view = new EmployeeCreateView();
+            EmployeeCreateViewModel vm = new EmployeeCreateViewModel();
+            view.DataContext = vm;
+            view.ShowDialog();
         }
     }
 }

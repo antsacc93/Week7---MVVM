@@ -33,3 +33,5 @@ C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Avanade.Allocatio
 C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Avanade.Allocation.WPF\obj\Debug\net5.0-windows\ref\Avanade.Allocation.WPF.dll
 C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Avanade.Allocation.WPF\obj\Debug\net5.0-windows\Avanade.Allocation.WPF.pdb
 C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Avanade.Allocation.WPF\obj\Debug\net5.0-windows\Avanade.Allocation.WPF.genruntimeconfig.cache
+C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Avanade.Allocation.WPF\obj\Debug\net5.0-windows\Views\EmployeeCreateView.g.cs
+C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Avanade.Allocation.WPF\obj\Debug\net5.0-windows\Views\EmployeeCreateView.baml

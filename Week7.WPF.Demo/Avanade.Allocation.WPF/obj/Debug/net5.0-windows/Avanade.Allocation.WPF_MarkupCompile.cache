@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET5_0;NETCOREAPP
 C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Avanade.Allocation.WPF\App.xaml
-41667345016
+5-252014797
 
-141341965974
+18-1715479150
 196-14826077
-Views\EmployeeEditorView.xaml;Views\EmployeeRowView.xaml;Views\HomeView.xaml;Views\SignInView.xaml;
+Views\EmployeeCreateView.xaml;Views\EmployeeEditorView.xaml;Views\EmployeeRowView.xaml;Views\HomeView.xaml;Views\SignInView.xaml;
 
 False
 
