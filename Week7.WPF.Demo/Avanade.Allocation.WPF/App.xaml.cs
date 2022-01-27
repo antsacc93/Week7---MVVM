@@ -22,6 +22,7 @@ namespace Avanade.Allocation.WPF
         {
             //Mi metto in ascolto di eventuali messaggi "DialogMessage"
             Messenger.Default.Register<DialogMessage>(this, OnDialogMessageReceived);
+            Messenger.Default.Register<ShutDownApplicationMessage>(this, OnShutDownMessageReceived);
 
             //Inizializzazione database fittizio
             AllocationMockStorage.Initialize();
@@ -41,12 +42,20 @@ namespace Avanade.Allocation.WPF
             base.OnStartup(e);
         }
 
+        private void OnShutDownMessageReceived(ShutDownApplicationMessage message)
+        {
+            //la chiusura dell'applicazione
+        }
+
 
         //metodo che scatta quando arriva un qualsiasi messaggio di tipo 
         //dialog message
         private void OnDialogMessageReceived(DialogMessage message)
         {
-            MessageBoxResult result = MessageBox.Show(message.Content, message.Title);
+            MessageBoxResult result = MessageBox.Show(
+                message.Content, 
+                message.Title, 
+                message.Buttons, message.Icon);
 
 
         }

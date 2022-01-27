@@ -11,10 +11,17 @@ C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Avanade.Allocatio
 C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Avanade.Allocation.WPF\bin\Debug\net5.0-windows\Avanade.Allocation.Core.Mock.pdb
 C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Avanade.Allocation.WPF\bin\Debug\net5.0-windows\Avanade.Allocation.Core.pdb
 C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Avanade.Allocation.WPF\obj\Debug\net5.0-windows\Avanade.Allocation.WPF.csproj.AssemblyReference.cache
+C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Avanade.Allocation.WPF\obj\Debug\net5.0-windows\Views\EmployeeEditorView.g.cs
+C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Avanade.Allocation.WPF\obj\Debug\net5.0-windows\Views\EmployeeRowView.g.cs
+C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Avanade.Allocation.WPF\obj\Debug\net5.0-windows\Views\HomeView.g.cs
 C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Avanade.Allocation.WPF\obj\Debug\net5.0-windows\Views\SignInView.g.cs
 C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Avanade.Allocation.WPF\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Avanade.Allocation.WPF\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
 C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Avanade.Allocation.WPF\obj\Debug\net5.0-windows\Avanade.Allocation.WPF_MarkupCompile.cache
 C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Avanade.Allocation.WPF\obj\Debug\net5.0-windows\Avanade.Allocation.WPF_MarkupCompile.lref
+C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Avanade.Allocation.WPF\obj\Debug\net5.0-windows\Views\EmployeeEditorView.baml
+C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Avanade.Allocation.WPF\obj\Debug\net5.0-windows\Views\EmployeeRowView.baml
+C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Avanade.Allocation.WPF\obj\Debug\net5.0-windows\Views\HomeView.baml
 C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Avanade.Allocation.WPF\obj\Debug\net5.0-windows\Views\SignInView.baml
 C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Avanade.Allocation.WPF\obj\Debug\net5.0-windows\Avanade.Allocation.WPF.g.resources
 C:\Users\AntoniaSacchitella\Desktop\Week7 - WPF\Week7.WPF.Demo\Avanade.Allocation.WPF\obj\Debug\net5.0-windows\Avanade.Allocation.WPF.GeneratedMSBuildEditorConfig.editorconfig

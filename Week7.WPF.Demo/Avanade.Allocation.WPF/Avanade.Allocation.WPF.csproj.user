@@ -7,11 +7,29 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
+    <Compile Update="Views\EmployeeEditorView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\EmployeeRowView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\HomeView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="Views\SignInView.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Page Update="Views\EmployeeEditorView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\EmployeeRowView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\HomeView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="Views\SignInView.xaml">
       <SubType>Designer</SubType>
     </Page>

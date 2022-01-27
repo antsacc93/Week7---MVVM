@@ -22,14 +22,14 @@ namespace Avanade.Allocation.WPF.ViewModels
         public string UserName
         {
             get { return _userName; }
-            set{ _userName = value; RaisePropertyChanged(); }
+            set{ _userName = value; RaisePropertyChanged("UserName"); }
         }
 
         private string _password;
         public string Password
         {
             get { return _password; }
-            set { _password = value; RaisePropertyChanged(); }
+            set { _password = value; RaisePropertyChanged("Password"); }
         }
 
         public ICommand SignInCommand { get; set; }
@@ -49,7 +49,7 @@ namespace Avanade.Allocation.WPF.ViewModels
                 UserName = "mario.rossi";
                 Password = "123456";
             }
-            
+
         }
 
         private bool CanExecuteSignIn()
@@ -68,11 +68,13 @@ namespace Avanade.Allocation.WPF.ViewModels
             if (response.Success)
             {
                 //APRI FINESTRA DI DIALOGO CON CONTENUTO
-                Messenger.Default.Send(new DialogMessage
-                {
-                    Title = "Log-in Effettuato",
-                    Content = response.Message
-                });
+                //Messenger.Default.Send(new DialogMessage
+                //{
+                //    Title = "Log-in Effettuato",
+                //    Content = response.Message
+                //});
+                //Invio del messaggio che apre la finestra home
+                Messenger.Default.Send(new ShowHomeViewMessage());
             }
             else
             {

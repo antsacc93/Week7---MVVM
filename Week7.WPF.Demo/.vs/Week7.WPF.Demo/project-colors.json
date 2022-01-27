@@ -45,7 +45,32 @@
       "ProjectGuid": "777c9129-f323-4a8d-be63-f87e76d57839",
       "DisplayName": "Week7.WPF.Esercitazione2",
       "ColorIndex": 7
+    },
+    "5a25e63f-7cc5-49b5-a1ec-2debae7a3b75": {
+      "ProjectGuid": "5a25e63f-7cc5-49b5-a1ec-2debae7a3b75",
+      "DisplayName": "Week7.WPF.AsyncAwait",
+      "ColorIndex": 8
+    },
+    "e95ba006-7a5e-4227-9eff-2918d1292eca": {
+      "ProjectGuid": "e95ba006-7a5e-4227-9eff-2918d1292eca",
+      "DisplayName": "Avanade.Allocation.Core",
+      "ColorIndex": 9
+    },
+    "837d4cbc-46a9-4a17-8a29-87e10ef2c350": {
+      "ProjectGuid": "837d4cbc-46a9-4a17-8a29-87e10ef2c350",
+      "DisplayName": "Avanade.Allocation.Core.Mock",
+      "ColorIndex": 10
+    },
+    "1d56162e-f023-42b4-b1ff-fb831a1cba35": {
+      "ProjectGuid": "1d56162e-f023-42b4-b1ff-fb831a1cba35",
+      "DisplayName": "Avanade.Allocation.WPF",
+      "ColorIndex": 11
+    },
+    "60cd45e0-d523-4aca-a8e3-328edbecf326": {
+      "ProjectGuid": "60cd45e0-d523-4aca-a8e3-328edbecf326",
+      "DisplayName": "Avanade.Allocation.WPF.Test",
+      "ColorIndex": 12
     }
   },
-  "NextColorIndex": 8
+  "NextColorIndex": 13
 }
