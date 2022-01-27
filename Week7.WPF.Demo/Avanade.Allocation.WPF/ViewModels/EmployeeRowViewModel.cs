@@ -1,6 +1,7 @@
 ﻿using Avanade.Allocation.Core.BusinessLayer;
 using Avanade.Allocation.Core.Entities;
 using Avanade.Allocation.Core.Mock.Repositories;
+using Avanade.Allocation.WPF.Messaging.Employee;
 using Avanade.Allocation.WPF.Messaging.Misc;
 using GalaSoft.MvvmLight;
 using GalaSoft.MvvmLight.Command;
@@ -97,7 +98,7 @@ namespace Avanade.Allocation.WPF.ViewModels
 
         private void ExecuteUpdate()
         {
-            throw new NotImplementedException();
+            Messenger.Default.Send(new ShowUpdateEmployeeMessage { Entity = item });
         }
     }
 }

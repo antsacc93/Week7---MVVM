@@ -33,13 +33,13 @@ namespace Avanade.Allocation.Core.Mock.Repositories
                 .ToList();
         }
 
-        public void Update(Employee employee)
+        public void Update(Employee oldEmp, Employee newEmp)
         {
-            var existingEmployee = AllocationMockStorage.Employees.FirstOrDefault(e => e.Id == employee.Id);
+            var existingEmployee = AllocationMockStorage.Employees.FirstOrDefault(e => e.Id == newEmp.Id);
             //Rimuovo l'elemento esistente dalla lista e lo riaggiungo quello passato in input subito dopo
-            AllocationMockStorage.Employees.Remove(existingEmployee);
+            AllocationMockStorage.Employees.Remove(oldEmp);
 
-            AllocationMockStorage.Employees.Add(employee);
+            AllocationMockStorage.Employees.Add(newEmp);
         }
     }
 }

@@ -62,8 +62,18 @@ namespace Avanade.Allocation.Core.BusinessLayer
 
         public Response UpdateEmployee(Employee entity)
         {
-            //TODO
-            throw new NotImplementedException();
+            //Validazione argomenti
+            if (entity == null)
+                return new Response() { Success = false, Message = "Incorrect entity" };
+
+            //CERCARE L'IMPIEGATO DA MODIFICARE
+            var employeeToUpdate = FetchAllEmployees().FirstOrDefault(x => x.Id == entity.Id);
+
+            //Se invece la lista è vuota significa che è andato tutto bene
+            _EmployeeRepository.Update(employeeToUpdate, entity);
+
+            //Emetto comunque la lista (vuota) per segnalare che è andato tutto bene
+            return new Response() { Success = true, Message = "Employee updated" };
         }
 
     }

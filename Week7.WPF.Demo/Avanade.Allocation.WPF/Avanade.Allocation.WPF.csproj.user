@@ -22,6 +22,9 @@
     <Compile Update="Views\SignInView.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="Views\UpdateEmployeeView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Page Update="Views\EmployeeCreateView.xaml">
@@ -37,6 +40,9 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Update="Views\SignInView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\UpdateEmployeeView.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

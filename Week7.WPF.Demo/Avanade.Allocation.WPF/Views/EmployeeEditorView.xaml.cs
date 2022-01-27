@@ -26,6 +26,16 @@ namespace Avanade.Allocation.WPF.Views
         {
             InitializeComponent();
             Messenger.Default.Register<ShowCreateEmployeeMessage>(this, OnShowCreateEmployeeExecuted);
+            Messenger.Default.Register<ShowUpdateEmployeeMessage>(this, OnShowUpdateEmployeeMessageReceived);
+        }
+
+        private void OnShowUpdateEmployeeMessageReceived(ShowUpdateEmployeeMessage message)
+        {
+            //Creazione della view, del vm, marriage e show
+            UpdateEmployeeView view = new UpdateEmployeeView();
+            UpdateEmployeeViewModel vm = new UpdateEmployeeViewModel(message.Entity);
+            view.DataContext = vm;
+            view.ShowDialog();
         }
 
         private void OnShowCreateEmployeeExecuted(ShowCreateEmployeeMessage obj)

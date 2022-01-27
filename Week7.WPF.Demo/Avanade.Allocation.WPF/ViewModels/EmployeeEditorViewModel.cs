@@ -21,6 +21,7 @@ namespace Avanade.Allocation.WPF.ViewModels
     public class EmployeeEditorViewModel : ViewModelBase
     {
         public ICommand CreateEmployee { get; set; }
+        
 
         public ObservableCollection<EmployeeRowViewModel> _EmployeesSource;
         private ICollectionView _Employees;

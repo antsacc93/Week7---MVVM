@@ -52,7 +52,12 @@ namespace Avanade.Allocation.WPF
                 message.Title, 
                 message.Buttons, message.Icon);
 
-
+            //Qui ho il risultato della selezione del pulsante
+            //cliccato dall'utente => avvio la funzione di Callback
+            //SOLAMENTE se è stata specificata (il default è che non 
+            //è stata specificata, quindi è nulla!!!)
+            if (message.Callback != null)
+                message.Callback(result);
         }
     }
 }

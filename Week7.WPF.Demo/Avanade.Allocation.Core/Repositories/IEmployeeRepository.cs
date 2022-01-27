@@ -13,7 +13,7 @@ namespace Avanade.Allocation.Core.Repositories
 
         void Create(Employee employee);
 
-        void Update(Employee employee);
+        void Update(Employee oldEmployee, Employee newEmployee);
 
         void Delete(Employee employee);
     }

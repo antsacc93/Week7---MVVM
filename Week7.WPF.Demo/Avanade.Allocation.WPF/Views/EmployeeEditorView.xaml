@@ -30,6 +30,9 @@
         <Button Margin="4" Grid.Column="1" Grid.Row="0" Command="{Binding Path=CreateEmployee}">
             Crea Impiegato
         </Button>
+        <Button Margin="4" Grid.Column="0" Grid.Row="0" Width="60" HorizontalAlignment="Right" Command="{Binding Path=LoadEmployeesCommand}">
+            Aggiorna
+        </Button>
         <ListBox Grid.Row="1" Grid.ColumnSpan="2" Margin="4" HorizontalContentAlignment="Stretch" 
                  ItemsSource="{Binding Path=Employees}" ItemTemplate="{StaticResource EmployeeRowTemplate}"
                  />
